@@ -1,5 +1,3 @@
-Attribute VB_Name = "Module1"
-
 Sub wallstreet_vba()
 
 For Each W In Worksheets
